@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"></head><body><template>
+<style>
+#root{position:absolute;inset:0;width:1280px;height:720px;color:#f3eee5;font-family:"Noto Sans JP",sans-serif}
+.photo{position:absolute;inset:0;width:1280px;height:720px;object-fit:cover}
+.topline{position:absolute;left:42px;top:32px;display:flex;gap:18px;align-items:center;padding:10px 14px;background:#182126}
+.brand{font:700 20px "IBM Plex Mono",monospace;color:#d9b98a}
+.heading{font-size:21px}
+.panel{position:absolute;right:38px;top:370px;width:398px;padding:22px;background:#182126;border:1px solid #d9b98a;box-sizing:border-box}
+.label{font:400 16px "IBM Plex Mono",monospace;letter-spacing:2px;color:#d9b98a;margin-bottom:12px}
+.state{font-size:24px;line-height:1.5;min-height:72px}
+.track{height:4px;width:100%;background:#3b4448;margin-top:14px;overflow:hidden}
+.fill{height:100%;width:100%;background:#d9b98a;transform-origin:left}
+.note{margin-top:12px;font-size:16px;color:#f3eee5}
+.captionbox{position:absolute;left:32px;right:32px;bottom:36px;display:flex;justify-content:center}
+.caption{font-size:27px;line-height:1.5;padding:9px 16px;background:#182126;max-width:1180px;text-align:center;box-sizing:border-box}
+</style>
+<div data-hf-id="hf-5t04" id="root" data-composition-id="scene02" data-duration="6" data-width="1280" data-height="720">
+<img data-hf-id="hf-zuos" id="scene02-picture" class="photo" src="assets/keyframes/04-grinder.png" alt="Evan第三人称关键帧">
+<div data-hf-id="hf-o5lv" class="topline"><span data-hf-id="hf-ne50" class="brand">EVAN × ASTRA</span><span data-hf-id="hf-ryge" class="heading">咖啡慢一点，工作继续</span></div>
+<div data-hf-id="hf-owjm" class="panel"><div data-hf-id="hf-mr3w" class="label">ASTRA / TASK 001</div><div data-hf-id="hf-464k" id="scene02-state" class="state">扫描女装头部账号</div><div data-hf-id="hf-64lp" class="track"><div data-hf-id="hf-uo41" id="scene02-fill" class="fill"></div></div><div data-hf-id="hf-1fc0" class="note">流程演示 · 后台过程已加速</div></div>
+<div data-hf-id="hf-gyr9" class="captionbox"><div data-hf-id="hf-uzyv" id="scene02-caption" class="caption"></div></div>
+</div>
+<script>
+(function(){
+ const tl=gsap.timeline({paused:true});
+ const states=[[0,"扫描女装头部账号"],[1.6,"比较选题与穿搭"],[3.2,"归纳爆款特征"],[4.8,"正在整理报告"]], subtitles=[[0,""]];
+ const status=document.getElementById("scene02-state"), caption=document.getElementById("scene02-caption");
+ const cursor={t:0}; const at=(items,t)=>{for(let i=items.length-1;i>=0;i--)if(t>=items[i][0])return items[i][1];return "";};
+ tl.to(cursor,{t:6,duration:6,ease:"none",onUpdate:()=>{status.textContent=at(states,cursor.t);caption.textContent=at(subtitles,cursor.t);caption.style.opacity=caption.textContent?"1":"0";}},0);
+ tl.fromTo("#scene02-fill",{scaleX:0.03},{scaleX:1,duration:5.6,ease:"none"},0);
+ window.__timelines["scene02"]=tl;
+})();
+</script></template></body></html>

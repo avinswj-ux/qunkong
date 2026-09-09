@@ -1,0 +1,19 @@
+{
+  "device_id": "00008120-000E113E3628C01E",
+  "douyin_version": "填写当前抖音版本",
+  "screen_profile": "竖屏 / 默认字体 / 中文界面",
+  "steps": [
+    {"action": "launch", "note": "启动抖音"},
+    {"action": "tap_accessibility", "value": "发布", "note": "填写 Appium Inspector 看到的真实 label"},
+    {"action": "tap_accessibility", "value": "相册"},
+    {"action": "select_imported_asset", "note": "仅选择本次 run_id 导入到相册的素材"},
+    {"action": "tap_accessibility", "value": "一键成片"},
+    {"action": "tap_accessibility", "value": "填写确认过的特效名称"},
+    {"action": "tap_accessibility", "value": "选择音乐"},
+    {"action": "tap_accessibility", "value": "填写确认过的 BGM 名称"},
+    {"action": "type_caption", "source": "metadata.caption"},
+    {"action": "type_tags", "source": "metadata.tags"},
+    {"action": "pause_before_publish", "note": "校准期必须保留；稳定后才允许改为 tap_publish"},
+    {"action": "assert_publish_success", "note": "发布成功页的真实可访问性标签"}
+  ]
+}

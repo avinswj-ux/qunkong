@@ -1,0 +1,5 @@
+{"id":"image_001","type":"image","path":"assets/keyframes/01-study.png","source":"existing","description":"01 study","width":1672,"height":941,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_002","type":"image","path":"assets/keyframes/02-coffee.png","source":"existing","description":"02 coffee","width":1672,"height":941,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_003","type":"image","path":"assets/keyframes/03-court.png","source":"existing","description":"03 court","width":1672,"height":941,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_004","type":"image","path":"assets/keyframes/04-grinder.png","source":"existing","description":"04 grinder","width":1672,"height":941,"provenance":{"provider":"local","adopted":true}}
+{"id":"video_001","type":"video","path":"assets/video/01-study.mp4","source":"existing","description":"01 study","duration":8.1,"width":1278,"height":720,"provenance":{"provider":"local","adopted":true}}

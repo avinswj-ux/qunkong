@@ -1,0 +1,20 @@
+{
+  "status": "SUCCESS",
+  "reference": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-evening/look-03-brown-leggings-oatmeal-top-keyframe.png",
+  "sha256": "e4dfdeed59941c3b984fba0e8e5529e22ce928f816877e7ec17ccdcc154295d0",
+  "prompt": "Create one continuous 10-second natural real-time smartphone fashion clip, vertical 9:16, native 1080p. [identity] Reference image 0 is the accepted opening keyframe and the sole visual identity, body, outfit, pose and location source—not loose inspiration. Preserve this exact adult woman's facial geometry in every frame: face outline, eye shape and spacing, eyebrows, nose bridge and tip, lip proportions, skin tone, age, center-part long straight black hair, hairline, shoulder-waist-hip proportions and leg length. Never recast, beautify, change ethnicity, change hairstyle, slim, enlarge curves or lengthen limbs. [user] Preserve the exact garment color, neckline, seams, waistband, length and fit already embedded in the keyframe. No outfit transformation. [skill] Same corridor geometry, window, sculptures, floor, lighting direction, exposure and camera position throughout. Boyfriend-viewpoint candid phone shot at eye level, nearly fixed with only subtle human micro-jitter; no zoom, orbit, pan, tracking, low angle, cuts or transitions. Both feet must keep credible ground contact and contact shadows; no gliding, floating, foot sliding or continuous walking. Each time segment has one main action. Natural blinks, breathing, fine hair and cloth response only. She does not stare at the lens throughout. No second person or hand entering frame. No captions, watermark, brand text, dialogue or music; quiet corridor ambience and only action-related cloth/foot sounds. Avoid identity drift at head turns, anatomical distortion, extra/fused fingers, broken joints, garment mutation, background warping, sudden pose resets, plastic skin or glossy CGI.\n[user] Outfit remains the oatmeal fitted long-sleeve half-zip athletic top, deep cocoa-grey high-waist ankle-length fitted leggings, and dark-brown thin-strap flat flip-flops. 0-2s: left palm remains supported on the wall and feet remain at the same crossed standing marks; natural blink and breath. 2-4.5s: right fingers complete one small hair-tuck behind the ear, following a short arc; hair strands bend and settle without changing hairstyle. 4.5-6.5s: right hand lowers to rest beside the torso, while the supported hand stays fixed. 6.5-8s: eyes lift briefly toward the companion just to the side of lens, restrained expression. 8-10s: gaze lowers toward the floor and holds. No walking, pelvic drift, leg uncrossing, wall penetration, zipper motion, waistband movement or front-seam distortion.",
+  "sources": {
+    "identity": "accepted keyframe carrying locked model",
+    "user": "2026-09-08 garment screenshots and current request",
+    "skill": "female-outfit-director + VIDEO_WORKFLOW_RULES"
+  },
+  "conflict_check": "passed",
+  "workflow": "minimax_h3_lightx2v_v5",
+  "duration": 10,
+  "resolution": "1080p竖",
+  "review": "pending video review",
+  "task_id": "3fa7c212-d4ec-451b-94ae-bc71e14244a4",
+  "output_path": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-evening/clips/autodl-3fa7c212-d4ec-451b-94ae-bc71e14244a4.mp4",
+  "error": null,
+  "delivery_path": "/Users/apple/Desktop/抖音成片/2026-09-08/look-03-brown-leggings-oatmeal-top-10s-1080p.mp4"
+}

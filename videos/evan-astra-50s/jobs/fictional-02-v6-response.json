@@ -1,0 +1,1 @@
+{"code":"fail_to_fetch_task","message":"{\"code\":\"InputImageSensitiveContentDetected.PrivacyInformation\",\"message\":\"第 2 个输入内容中的图片可能包含真人，请更换素材或使用已完成授权的真人素材。\",\"data\":{\"param\":\"content[1]\",\"request_id\":\"021788783197707806bb4b5cb47af996838ad42b320db365afd38\",\"type\":\"BadRequest\"}}","data":null}

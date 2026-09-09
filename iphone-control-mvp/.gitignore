@@ -1,0 +1,6 @@
+.env
+.venv/
+.derived-data/
+.appium.log
+__pycache__/
+*.pyc

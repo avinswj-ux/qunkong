@@ -1,0 +1,71 @@
+[
+  {
+    "name": "black-jacket",
+    "task_id": "d3300b11-29c5-4c7f-a481-a2398c2882f1",
+    "status": "SUCCESS",
+    "path": "/Users/apple/Desktop/抖音成片/2026-09-06/black-jacket-10s-1080p.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.000000"
+      }
+    }
+  },
+  {
+    "name": "slate-jacket",
+    "task_id": "9fe448d3-40fb-410b-841a-7a837ae8f278",
+    "status": "SUCCESS",
+    "path": "/Users/apple/Desktop/抖音成片/2026-09-06/slate-jacket-10s-1080p.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.000000"
+      }
+    }
+  },
+  {
+    "name": "olive-dress",
+    "task_id": "104f6bc3-59bc-45be-8e92-73c502438570",
+    "status": "SUCCESS",
+    "path": "/Users/apple/Desktop/抖音成片/2026-09-06/olive-dress-10s-1080p.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.000000"
+      }
+    }
+  }
+]

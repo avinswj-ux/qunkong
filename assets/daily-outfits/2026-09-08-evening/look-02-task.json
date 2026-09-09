@@ -1,0 +1,20 @@
+{
+  "status": "SUCCESS",
+  "reference": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-evening/look-02-gray-flare-flipflops-keyframe.png",
+  "sha256": "9dd79fb72cdd65c359daf79938a2e343457c8adcb62375229ed132c9a1fbe127",
+  "prompt": "Create one continuous 10-second natural real-time smartphone fashion clip, vertical 9:16, native 1080p. [identity] Reference image 0 is the accepted opening keyframe and the sole visual identity, body, outfit, pose and location source—not loose inspiration. Preserve this exact adult woman's facial geometry in every frame: face outline, eye shape and spacing, eyebrows, nose bridge and tip, lip proportions, skin tone, age, center-part long straight black hair, hairline, shoulder-waist-hip proportions and leg length. Never recast, beautify, change ethnicity, change hairstyle, slim, enlarge curves or lengthen limbs. [user] Preserve the exact garment color, neckline, seams, waistband, length and fit already embedded in the keyframe. No outfit transformation. [skill] Same corridor geometry, window, sculptures, floor, lighting direction, exposure and camera position throughout. Boyfriend-viewpoint candid phone shot at eye level, nearly fixed with only subtle human micro-jitter; no zoom, orbit, pan, tracking, low angle, cuts or transitions. Both feet must keep credible ground contact and contact shadows; no gliding, floating, foot sliding or continuous walking. Each time segment has one main action. Natural blinks, breathing, fine hair and cloth response only. She does not stare at the lens throughout. No second person or hand entering frame. No captions, watermark, brand text, dialogue or music; quiet corridor ambience and only action-related cloth/foot sounds. Avoid identity drift at head turns, anatomical distortion, extra/fused fingers, broken joints, garment mutation, background warping, sudden pose resets, plastic skin or glossy CGI.\n[user] Outfit remains the ivory fitted short-sleeve crop athletic top, charcoal high-waist fitted flared yoga trousers with smooth clean front, and black thin-strap flat flip-flops. 0-2s: maintain the original supported pose with right palm lightly touching the window frame and both flip-flops fully planted; breathe and blink. 2-4s: right fingertips slide downward only a few centimeters along the frame, then stop; elbow relaxes without changing foot placement. 4-6.5s: head and eyes turn a few degrees from the window toward the companion beside camera; no torso rotation. 6.5-8s: a tiny natural closed-mouth smile, then neutral. 8-10s: gaze returns outside and fingers rest. Keep trouser flare, inseam, waistband and hem stable; no pants shortening, shoe change, leg crossing, foot dragging or flip-flop detachment.",
+  "sources": {
+    "identity": "accepted keyframe carrying locked model",
+    "user": "2026-09-08 garment screenshots and current request",
+    "skill": "female-outfit-director + VIDEO_WORKFLOW_RULES"
+  },
+  "conflict_check": "passed",
+  "workflow": "minimax_h3_lightx2v_v5",
+  "duration": 10,
+  "resolution": "1080p竖",
+  "review": "pending video review",
+  "task_id": "6d8826b3-6049-49a5-9c3e-7677b0e4c003",
+  "output_path": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-evening/clips/autodl-6d8826b3-6049-49a5-9c3e-7677b0e4c003.mp4",
+  "error": null,
+  "delivery_path": "/Users/apple/Desktop/抖音成片/2026-09-08/look-02-gray-flare-flipflops-10s-1080p.mp4"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "SUCCESS",
+  "reference": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-redo/look-03-hotel-ivory-dress-keyframe.png",
+  "sha256": "70fe1cf801e020c00b7224ff2c3f91f132faf064273f26eb6761b2ac7a597c43",
+  "prompt": "Create one continuous 5-second real-time candid iPhone clip, vertical 9:16, native 1080p. Reference image 0 is the accepted opening keyframe and the sole visual source for the adult woman's identity, body, clothing and location. Keep her exact face, facial proportions, skin tone, age, center-part long black hair, hairline and natural body proportions throughout. Preserve the exact clothing already visible in the keyframe. The performance must feel like a real person responding to an ordinary moment, not a model following choreography. Use one motivated action sequence with natural cause and effect: eyes notice the target first, the head follows, shoulders and torso respond subtly, the hand completes the task, then the body releases tension. Include irregular natural blinking, breathing, tiny facial asymmetry, loose hair response and believable cloth compression. Boyfriend-perspective phone camera: restrained handheld observation with small human drift that gently follows the action; never perform an automatic push-in, beauty zoom, orbit or sudden reframe. Keep the face and full action visible. Real skin texture, phone noise, modest compression and natural mixed light. No outfit change, second person, captions, watermark, dialogue or music. Avoid puppet motion, isolated head or hand movement, frozen torso, repeated gesture, prolonged posing, exaggerated smile, identity drift, extra fingers, broken joints, floating feet, prop morphing or background warping.\nShe remains seated on the same hotel bed edge wearing the opaque ivory halter dress with the same small rhinestone neckline details and beige low-heel sandals. This is a quiet private preparation moment with no interaction with the camera. Over five seconds, she keeps her gaze lowered, guides the small earring into her left ear, pauses briefly when it seats, then lowers the left hand to the jewellery box in her right palm and gently closes the lid once. The head tilt, neck, shoulder and elbow move as one connected chain; her torso stays upright and never leans toward the camera. Long hair slides minimally over the shoulder and settles. Hips remain supported, knees and both feet keep their original positions, and mattress compression stays constant. The phone remains at the original full seated framing from first to last frame; no push-in, no face close-up, no reframing and no eye contact with lens. No repeated ear touching, jewellery duplication, hand-ear fusion, standing, leg movement or smile performance.",
+  "workflow": "minimax_h3_lightx2v_v5",
+  "duration": 5,
+  "resolution": "1080p竖",
+  "sources": [
+    "central-rule-thread:01a08135-2b48-7ae0-ba27-7359f6517610",
+    "female-outfit-director",
+    "user garment references"
+  ],
+  "conflict_check": "passed",
+  "review": "pending continuous-motion review",
+  "task_id": "7d9ff401-163e-4f78-93fa-daa5ca50920a",
+  "output_path": "/Users/apple/Documents/ChatGPT/群控/assets/daily-outfits/2026-09-08-redo/clips/autodl-7d9ff401-163e-4f78-93fa-daa5ca50920a.mp4",
+  "error": null,
+  "delivery_path": "/Users/apple/Desktop/抖音成片/2026-09-08-重做/look-03-hotel-ivory-dress-5s-1080p-v2.mp4"
+}

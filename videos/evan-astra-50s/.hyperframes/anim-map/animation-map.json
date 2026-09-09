@@ -1,0 +1,3403 @@
+{
+  "composition": "/Users/apple/Documents/ChatGPT/群控/videos/evan-astra-50s",
+  "duration": 50,
+  "totalTweens": 36,
+  "mappedTweens": 36,
+  "skippedMicroTweens": 0,
+  "tweens": [
+    {
+      "index": 1,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0,
+      "end": 8,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 2,
+      "selector": "#scene01-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0,
+      "end": 7.6,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.633,
+          "x": 867,
+          "y": 510,
+          "w": 38,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 1.9,
+          "x": 867,
+          "y": 510,
+          "w": 96,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 3.167,
+          "x": 867,
+          "y": 510,
+          "w": 153,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 4.433,
+          "x": 867,
+          "y": 510,
+          "w": 208,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 5.7,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 6.967,
+          "x": 867,
+          "y": 510,
+          "w": 324,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene01-fill animates scaleX over 7.60s (none). scales. width 38→324px. ends at (867, 510) 324×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 3,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 8.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 4,
+      "selector": "#scene01-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 7.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.669,
+          "x": 867,
+          "y": 510,
+          "w": 41,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 1.936,
+          "x": 867,
+          "y": 510,
+          "w": 97,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 3.203,
+          "x": 867,
+          "y": 510,
+          "w": 154,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 4.469,
+          "x": 867,
+          "y": 510,
+          "w": 211,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 5.736,
+          "x": 867,
+          "y": 510,
+          "w": 268,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 7.003,
+          "x": 867,
+          "y": 510,
+          "w": 325,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene01-fill animates scaleX over 7.60s (none). scales. width 41→325px. ends at (867, 510) 325×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 5,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 8.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 6,
+      "selector": "#scene01-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 7.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.669,
+          "x": 867,
+          "y": 510,
+          "w": 41,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 1.936,
+          "x": 867,
+          "y": 510,
+          "w": 97,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 3.203,
+          "x": 867,
+          "y": 510,
+          "w": 154,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 4.469,
+          "x": 867,
+          "y": 510,
+          "w": 211,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 5.736,
+          "x": 867,
+          "y": 510,
+          "w": 268,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 7.003,
+          "x": 867,
+          "y": 510,
+          "w": 325,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene01-fill animates scaleX over 7.60s (none). scales. width 41→325px. ends at (867, 510) 325×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 7,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 6.036,
+      "duration": 6,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 6.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 8,
+      "selector": "#scene02-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 5.636,
+      "duration": 5.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.503,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 1.436,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 2.369,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 3.303,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 4.236,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 5.169,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene02-fill animates scaleX over 5.60s (none). scales. ends at (867, 510) 11×4px. FLAGS: paced-slow."
+    },
+    {
+      "index": 9,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 8.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 10,
+      "selector": "#scene03-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 7.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.669,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 1.936,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 3.203,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 4.469,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 5.736,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 7.003,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene03-fill animates scaleX over 7.60s (none). scales. ends at (867, 510) 11×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 11,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 9.036,
+      "duration": 9,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 9.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 12,
+      "selector": "#scene04-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 8.636,
+      "duration": 8.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.753,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 2.186,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 3.619,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 5.053,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 6.486,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 7.919,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene04-fill animates scaleX over 8.60s (none). scales. ends at (867, 510) 11×4px. FLAGS: paced-slow."
+    },
+    {
+      "index": 13,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 8.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 14,
+      "selector": "#scene05-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 7.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.669,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 1.936,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 3.203,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 4.469,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 5.736,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 7.003,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene05-fill animates scaleX over 7.60s (none). scales. ends at (867, 510) 11×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 15,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 0.036,
+      "end": 11.036,
+      "duration": 11,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 11.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 16,
+      "selector": "#scene06-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 0.036,
+      "end": 10.636,
+      "duration": 10.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.919,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 2.686,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 4.453,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 6.219,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 7.986,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        },
+        {
+          "t": 9.753,
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1,
+          "visible": false
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene06-fill animates scaleX over 10.60s (none). scales. ends at (867, 510) 11×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 17,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 8,
+      "end": 14,
+      "duration": 6,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 6.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 18,
+      "selector": "#scene02-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 8,
+      "end": 13.6,
+      "duration": 5.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 8.467,
+          "x": 867,
+          "y": 510,
+          "w": 39,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 9.4,
+          "x": 867,
+          "y": 510,
+          "w": 96,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 10.333,
+          "x": 867,
+          "y": 510,
+          "w": 151,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 11.267,
+          "x": 867,
+          "y": 510,
+          "w": 210,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 12.2,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 13.133,
+          "x": 867,
+          "y": 510,
+          "w": 322,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene02-fill animates scaleX over 5.60s (none). scales. width 39→322px. ends at (867, 510) 322×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 19,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 8.036,
+      "end": 14.036,
+      "duration": 6,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 6.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 20,
+      "selector": "#scene02-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 8.036,
+      "end": 13.636,
+      "duration": 5.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 8.503,
+          "x": 867,
+          "y": 510,
+          "w": 41,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 9.436,
+          "x": 867,
+          "y": 510,
+          "w": 98,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 10.369,
+          "x": 867,
+          "y": 510,
+          "w": 155,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 11.303,
+          "x": 867,
+          "y": 510,
+          "w": 212,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 12.236,
+          "x": 867,
+          "y": 510,
+          "w": 269,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 13.169,
+          "x": 867,
+          "y": 510,
+          "w": 326,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene02-fill animates scaleX over 5.60s (none). scales. width 41→326px. ends at (867, 510) 326×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 21,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 14,
+      "end": 22,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 22,
+      "selector": "#scene03-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 14,
+      "end": 21.6,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 14.633,
+          "x": 867,
+          "y": 510,
+          "w": 38,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 15.9,
+          "x": 867,
+          "y": 510,
+          "w": 96,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 17.167,
+          "x": 867,
+          "y": 510,
+          "w": 153,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 18.433,
+          "x": 867,
+          "y": 510,
+          "w": 208,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 19.7,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 20.967,
+          "x": 867,
+          "y": 510,
+          "w": 324,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene03-fill animates scaleX over 7.60s (none). scales. width 38→324px. ends at (867, 510) 324×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 23,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 14.036,
+      "end": 22.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 24,
+      "selector": "#scene03-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 14.036,
+      "end": 21.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 14.669,
+          "x": 867,
+          "y": 510,
+          "w": 41,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 15.936,
+          "x": 867,
+          "y": 510,
+          "w": 97,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 17.203,
+          "x": 867,
+          "y": 510,
+          "w": 154,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 18.469,
+          "x": 867,
+          "y": 510,
+          "w": 211,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 19.736,
+          "x": 867,
+          "y": 510,
+          "w": 268,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 21.003,
+          "x": 867,
+          "y": 510,
+          "w": 325,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene03-fill animates scaleX over 7.60s (none). scales. width 41→325px. ends at (867, 510) 325×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 25,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 22,
+      "end": 31,
+      "duration": 9,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 9.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 26,
+      "selector": "#scene04-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 22,
+      "end": 30.6,
+      "duration": 8.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 22.717,
+          "x": 867,
+          "y": 510,
+          "w": 38,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 24.15,
+          "x": 867,
+          "y": 510,
+          "w": 95,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 25.583,
+          "x": 867,
+          "y": 510,
+          "w": 152,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 27.017,
+          "x": 867,
+          "y": 510,
+          "w": 209,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 28.45,
+          "x": 867,
+          "y": 510,
+          "w": 266,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 29.883,
+          "x": 867,
+          "y": 510,
+          "w": 323,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene04-fill animates scaleX over 8.60s (none). scales. width 38→323px. ends at (867, 510) 323×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 27,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 22.036,
+      "end": 31.036,
+      "duration": 9,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 9.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 28,
+      "selector": "#scene04-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 22.036,
+      "end": 30.636,
+      "duration": 8.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 22.753,
+          "x": 867,
+          "y": 510,
+          "w": 40,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 24.186,
+          "x": 867,
+          "y": 510,
+          "w": 97,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 25.619,
+          "x": 867,
+          "y": 510,
+          "w": 153,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 27.053,
+          "x": 867,
+          "y": 510,
+          "w": 210,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 28.486,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 29.919,
+          "x": 867,
+          "y": 510,
+          "w": 324,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene04-fill animates scaleX over 8.60s (none). scales. width 40→324px. ends at (867, 510) 324×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 29,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 31,
+      "end": 39,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 30,
+      "selector": "#scene05-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 31,
+      "end": 38.6,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 31.633,
+          "x": 867,
+          "y": 510,
+          "w": 38,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 32.9,
+          "x": 867,
+          "y": 510,
+          "w": 96,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 34.167,
+          "x": 867,
+          "y": 510,
+          "w": 153,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 35.433,
+          "x": 867,
+          "y": 510,
+          "w": 208,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 36.7,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 37.967,
+          "x": 867,
+          "y": 510,
+          "w": 324,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene05-fill animates scaleX over 7.60s (none). scales. width 38→324px. ends at (867, 510) 324×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 31,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 31.036,
+      "end": 39.036,
+      "duration": 8,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 8.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 32,
+      "selector": "#scene05-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 31.036,
+      "end": 38.636,
+      "duration": 7.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 31.669,
+          "x": 867,
+          "y": 510,
+          "w": 41,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 32.936,
+          "x": 867,
+          "y": 510,
+          "w": 97,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 34.203,
+          "x": 867,
+          "y": 510,
+          "w": 154,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 35.469,
+          "x": 867,
+          "y": 510,
+          "w": 211,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 36.736,
+          "x": 867,
+          "y": 510,
+          "w": 268,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 38.003,
+          "x": 867,
+          "y": 510,
+          "w": 325,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene05-fill animates scaleX over 7.60s (none). scales. width 41→325px. ends at (867, 510) 325×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 33,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 39,
+      "end": 50,
+      "duration": 11,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 11.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 34,
+      "selector": "#scene06-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 39,
+      "end": 49.6,
+      "duration": 10.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 39.883,
+          "x": 867,
+          "y": 510,
+          "w": 38,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 41.65,
+          "x": 867,
+          "y": 510,
+          "w": 95,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 43.417,
+          "x": 867,
+          "y": 510,
+          "w": 152,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 45.183,
+          "x": 867,
+          "y": 510,
+          "w": 209,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 46.95,
+          "x": 867,
+          "y": 510,
+          "w": 266,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 48.717,
+          "x": 867,
+          "y": 510,
+          "w": 323,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene06-fill animates scaleX over 10.60s (none). scales. width 38→323px. ends at (867, 510) 323×4px. FLAGS: paced-slow. Overlaps another animated element."
+    },
+    {
+      "index": 35,
+      "selector": "(onUpdate driver)",
+      "driver": "onUpdate",
+      "targets": 0,
+      "props": [
+        "t"
+      ],
+      "start": 39.036,
+      "end": 50.036,
+      "duration": 11,
+      "ease": "none",
+      "bboxes": [],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "an onUpdate driver animates t over 11.00s (none) — motion is applied in JS, so no element geometry was measured. FLAGS: paced-slow."
+    },
+    {
+      "index": 36,
+      "selector": "#scene06-fill",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scaleX"
+      ],
+      "start": 39.036,
+      "end": 49.636,
+      "duration": 10.6,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 39.919,
+          "x": 867,
+          "y": 510,
+          "w": 40,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 41.686,
+          "x": 867,
+          "y": 510,
+          "w": 96,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 43.453,
+          "x": 867,
+          "y": 510,
+          "w": 153,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 45.219,
+          "x": 867,
+          "y": 510,
+          "w": 210,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 46.986,
+          "x": 867,
+          "y": 510,
+          "w": 267,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 48.753,
+          "x": 867,
+          "y": 510,
+          "w": 324,
+          "h": 4,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow",
+        "collision"
+      ],
+      "summary": "#scene06-fill animates scaleX over 10.60s (none). scales. width 40→324px. ends at (867, 510) 324×4px. FLAGS: paced-slow. Overlaps another animated element."
+    }
+  ],
+  "choreography": "Timeline (50.0s, each char ≈ 0.83s):\n  0s                                                    50s\n  ┼───────────────────────────────────────────────────────────┤\n  ██████████                                                    (onUpdate driver) t\n  ██████████                                                    #scene01-fill scaleX\n  ██████████                                                    (onUpdate driver) t\n  ██████████                                                    #scene01-fill scaleX\n  ██████████                                                    (onUpdate driver) t\n  ██████████                                                    #scene01-fill scaleX\n  ████████                                                      (onUpdate driver) t\n  ███████                                                       #scene02-fill scaleX\n  ██████████                                                    (onUpdate driver) t\n  ██████████                                                    #scene03-fill scaleX\n  ███████████                                                   (onUpdate driver) t\n  ███████████                                                   #scene04-fill scaleX\n  ██████████                                                    (onUpdate driver) t\n  ██████████                                                    #scene05-fill scaleX\n  ██████████████                                                (onUpdate driver) t\n  █████████████                                                 #scene06-fill scaleX\n           ████████                                             (onUpdate driver) t\n           ████████                                             #scene02-fill scaleX\n           ████████                                             (onUpdate driver) t\n           ████████                                             #scene02-fill scaleX\n                  ███████████                                   (onUpdate driver) t\n                  ██████████                                    #scene03-fill scaleX\n                  ███████████                                   (onUpdate driver) t\n                  ██████████                                    #scene03-fill scaleX\n                            ████████████                        (onUpdate driver) t\n                            ███████████                         #scene04-fill scaleX\n                            ████████████                        (onUpdate driver) t\n                            ███████████                         #scene04-fill scaleX\n                                       ██████████               (onUpdate driver) t\n                                       ██████████               #scene05-fill scaleX\n                                       ██████████               (onUpdate driver) t\n                                       ██████████               #scene05-fill scaleX\n                                                ██████████████  (onUpdate driver) t\n                                                ██████████████  #scene06-fill scaleX\n                                                ██████████████  (onUpdate driver) t\n                                                ██████████████  #scene06-fill scaleX",
+  "density": [
+    {
+      "t": 0,
+      "activeTweens": 16
+    },
+    {
+      "t": 0.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 1,
+      "activeTweens": 16
+    },
+    {
+      "t": 1.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 2,
+      "activeTweens": 16
+    },
+    {
+      "t": 2.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 3,
+      "activeTweens": 16
+    },
+    {
+      "t": 3.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 4,
+      "activeTweens": 16
+    },
+    {
+      "t": 4.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 5,
+      "activeTweens": 16
+    },
+    {
+      "t": 5.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 6,
+      "activeTweens": 15
+    },
+    {
+      "t": 6.5,
+      "activeTweens": 14
+    },
+    {
+      "t": 7,
+      "activeTweens": 14
+    },
+    {
+      "t": 7.5,
+      "activeTweens": 16
+    },
+    {
+      "t": 8,
+      "activeTweens": 13
+    },
+    {
+      "t": 8.5,
+      "activeTweens": 8
+    },
+    {
+      "t": 9,
+      "activeTweens": 7
+    },
+    {
+      "t": 9.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 10,
+      "activeTweens": 6
+    },
+    {
+      "t": 10.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 11,
+      "activeTweens": 5
+    },
+    {
+      "t": 11.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 12,
+      "activeTweens": 4
+    },
+    {
+      "t": 12.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 13,
+      "activeTweens": 4
+    },
+    {
+      "t": 13.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 14,
+      "activeTweens": 6
+    },
+    {
+      "t": 14.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 15,
+      "activeTweens": 4
+    },
+    {
+      "t": 15.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 16,
+      "activeTweens": 4
+    },
+    {
+      "t": 16.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 17,
+      "activeTweens": 4
+    },
+    {
+      "t": 17.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 18,
+      "activeTweens": 4
+    },
+    {
+      "t": 18.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 19,
+      "activeTweens": 4
+    },
+    {
+      "t": 19.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 20,
+      "activeTweens": 4
+    },
+    {
+      "t": 20.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 21,
+      "activeTweens": 4
+    },
+    {
+      "t": 21.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 22,
+      "activeTweens": 6
+    },
+    {
+      "t": 22.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 23,
+      "activeTweens": 4
+    },
+    {
+      "t": 23.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 24,
+      "activeTweens": 4
+    },
+    {
+      "t": 24.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 25,
+      "activeTweens": 4
+    },
+    {
+      "t": 25.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 26,
+      "activeTweens": 4
+    },
+    {
+      "t": 26.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 27,
+      "activeTweens": 4
+    },
+    {
+      "t": 27.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 28,
+      "activeTweens": 4
+    },
+    {
+      "t": 28.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 29,
+      "activeTweens": 4
+    },
+    {
+      "t": 29.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 30,
+      "activeTweens": 4
+    },
+    {
+      "t": 30.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 31,
+      "activeTweens": 6
+    },
+    {
+      "t": 31.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 32,
+      "activeTweens": 4
+    },
+    {
+      "t": 32.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 33,
+      "activeTweens": 4
+    },
+    {
+      "t": 33.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 34,
+      "activeTweens": 4
+    },
+    {
+      "t": 34.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 35,
+      "activeTweens": 4
+    },
+    {
+      "t": 35.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 36,
+      "activeTweens": 4
+    },
+    {
+      "t": 36.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 37,
+      "activeTweens": 4
+    },
+    {
+      "t": 37.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 38,
+      "activeTweens": 4
+    },
+    {
+      "t": 38.5,
+      "activeTweens": 6
+    },
+    {
+      "t": 39,
+      "activeTweens": 6
+    },
+    {
+      "t": 39.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 40,
+      "activeTweens": 4
+    },
+    {
+      "t": 40.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 41,
+      "activeTweens": 4
+    },
+    {
+      "t": 41.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 42,
+      "activeTweens": 4
+    },
+    {
+      "t": 42.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 43,
+      "activeTweens": 4
+    },
+    {
+      "t": 43.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 44,
+      "activeTweens": 4
+    },
+    {
+      "t": 44.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 45,
+      "activeTweens": 4
+    },
+    {
+      "t": 45.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 46,
+      "activeTweens": 4
+    },
+    {
+      "t": 46.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 47,
+      "activeTweens": 4
+    },
+    {
+      "t": 47.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 48,
+      "activeTweens": 4
+    },
+    {
+      "t": 48.5,
+      "activeTweens": 4
+    },
+    {
+      "t": 49,
+      "activeTweens": 4
+    },
+    {
+      "t": 49.5,
+      "activeTweens": 4
+    }
+  ],
+  "staggers": [
+    {
+      "elements": [
+        "#scene01-fill",
+        "#scene01-fill",
+        "#scene01-fill",
+        "#scene03-fill",
+        "#scene05-fill",
+        "#scene03-fill",
+        "#scene03-fill"
+      ],
+      "props": [
+        "scaleX"
+      ],
+      "count": 7,
+      "intervals": [
+        0.036,
+        0,
+        0,
+        0,
+        13.964,
+        0.036
+      ],
+      "avgInterval": 2.339,
+      "consistent": false,
+      "note": "7 elements stagger with uneven intervals (36ms, 0ms, 0ms, 0ms, 13964ms, 36ms)"
+    },
+    {
+      "elements": [
+        "#scene02-fill",
+        "#scene02-fill",
+        "#scene02-fill"
+      ],
+      "props": [
+        "scaleX"
+      ],
+      "count": 3,
+      "intervals": [
+        7.964,
+        0.036
+      ],
+      "avgInterval": 4,
+      "consistent": false,
+      "note": "3 elements stagger with uneven intervals (7964ms, 36ms)"
+    },
+    {
+      "elements": [
+        "#scene04-fill",
+        "#scene04-fill",
+        "#scene04-fill"
+      ],
+      "props": [
+        "scaleX"
+      ],
+      "count": 3,
+      "intervals": [
+        21.964,
+        0.036
+      ],
+      "avgInterval": 11,
+      "consistent": false,
+      "note": "3 elements stagger with uneven intervals (21964ms, 36ms)"
+    },
+    {
+      "elements": [
+        "#scene06-fill",
+        "#scene06-fill",
+        "#scene06-fill"
+      ],
+      "props": [
+        "scaleX"
+      ],
+      "count": 3,
+      "intervals": [
+        38.964,
+        0.036
+      ],
+      "avgInterval": 19.5,
+      "consistent": false,
+      "note": "3 elements stagger with uneven intervals (38964ms, 36ms)"
+    }
+  ],
+  "elements": {
+    "#scene01-fill": {
+      "firstAppears": 0,
+      "lastAnimates": 7.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 325,
+        "h": 4
+      }
+    },
+    "#scene02-fill": {
+      "firstAppears": 0.036,
+      "lastAnimates": 13.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 326,
+        "h": 4
+      }
+    },
+    "#scene03-fill": {
+      "firstAppears": 0.036,
+      "lastAnimates": 21.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 325,
+        "h": 4
+      }
+    },
+    "#scene04-fill": {
+      "firstAppears": 0.036,
+      "lastAnimates": 30.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 324,
+        "h": 4
+      }
+    },
+    "#scene05-fill": {
+      "firstAppears": 0.036,
+      "lastAnimates": 38.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 325,
+        "h": 4
+      }
+    },
+    "#scene06-fill": {
+      "firstAppears": 0.036,
+      "lastAnimates": 49.636,
+      "tweenCount": 3,
+      "props": [
+        "scaleX"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 867,
+        "y": 510,
+        "w": 324,
+        "h": 4
+      }
+    }
+  },
+  "deadZones": [],
+  "snapshots": [
+    {
+      "t": 0,
+      "visibleElements": 26,
+      "animatingNow": [
+        "(onUpdate driver)",
+        "#scene01-fill"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene02",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene04",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-caption",
+          "x": 403,
+          "y": 626,
+          "w": 473,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene06",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 12.5,
+      "visibleElements": 27,
+      "animatingNow": [
+        "(onUpdate driver)",
+        "#scene02-fill",
+        "(onUpdate driver)",
+        "#scene02-fill"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-caption",
+          "x": 484,
+          "y": 626,
+          "w": 311,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene02",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-fill",
+          "x": 867,
+          "y": 510,
+          "w": 285,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene04",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-caption",
+          "x": 403,
+          "y": 626,
+          "w": 473,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene06",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 25,
+      "visibleElements": 28,
+      "animatingNow": [
+        "(onUpdate driver)",
+        "#scene04-fill",
+        "(onUpdate driver)",
+        "#scene04-fill"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-caption",
+          "x": 484,
+          "y": 626,
+          "w": 311,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene02",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-caption",
+          "x": 391,
+          "y": 626,
+          "w": 499,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene04",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-fill",
+          "x": 867,
+          "y": 510,
+          "w": 130,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-caption",
+          "x": 403,
+          "y": 626,
+          "w": 473,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene06",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 37.5,
+      "visibleElements": 28,
+      "animatingNow": [
+        "(onUpdate driver)",
+        "#scene05-fill",
+        "(onUpdate driver)",
+        "#scene05-fill"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-caption",
+          "x": 484,
+          "y": 626,
+          "w": 311,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene02",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-caption",
+          "x": 391,
+          "y": 626,
+          "w": 499,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene04",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-fill",
+          "x": 867,
+          "y": 510,
+          "w": 303,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-caption",
+          "x": 525,
+          "y": 626,
+          "w": 230,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene06",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-fill",
+          "x": 867,
+          "y": 510,
+          "w": 11,
+          "h": 4,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 49.9,
+      "visibleElements": 29,
+      "animatingNow": [
+        "(onUpdate driver)",
+        "(onUpdate driver)"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene01-caption",
+          "x": 484,
+          "y": 626,
+          "w": 311,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene02",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene02-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene03-caption",
+          "x": 391,
+          "y": 626,
+          "w": 499,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene04",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene04-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene05-caption",
+          "x": 525,
+          "y": 626,
+          "w": 230,
+          "h": 59,
+          "opacity": 1
+        },
+        {
+          "id": "scene06",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-picture",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-state",
+          "x": 867,
+          "y": 424,
+          "w": 352,
+          "h": 72,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-fill",
+          "x": 867,
+          "y": 510,
+          "w": 352,
+          "h": 4,
+          "opacity": 1
+        },
+        {
+          "id": "scene06-caption",
+          "x": 454,
+          "y": 626,
+          "w": 373,
+          "h": 59,
+          "opacity": 1
+        }
+      ]
+    }
+  ]
+}

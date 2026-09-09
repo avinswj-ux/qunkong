@@ -1,0 +1,39 @@
+{
+  "id": "M-001",
+  "version": "2.3",
+  "type": "real-person-character-asset-pack",
+  "identity": {
+    "gender_presentation": "male",
+    "height_cm": 178,
+    "weight_kg_approx": 72,
+    "face_lock_priority": "hard",
+    "primary_anchor": "identity/face-anchor-approved.png",
+    "raw_face_verification": "identity/face-id-board.jpg",
+    "body_anchor": "identity/body-three-view-generated.png",
+    "body_anchor_scope": "body proportions and hair silhouette only",
+    "generated_face_anchor_scope": "auxiliary visual guide; not authoritative for facial identity",
+    "supporting_views": [
+      "identity/front-neutral.jpg",
+      "identity/three-quarter-left.jpg",
+      "identity/left-profile.jpg",
+      "identity/front-original.jpg"
+    ]
+  },
+  "motion_reference": "motion/action-reference.mp4",
+  "wardrobe_references": [
+    "wardrobe/look-01-black-red.jpg",
+    "wardrobe/look-02-ivory-navy-polo.jpg",
+    "wardrobe/look-03-gray-mini-dress.jpg",
+    "wardrobe/look-04-gray-maxi-dress.jpg"
+  ],
+  "generation_policy": {
+    "preserve": ["face", "facial proportions", "hairline", "hairstyle", "skin tone", "age", "body proportions"],
+    "may_change": ["expression", "gesture", "outfit", "background", "camera framing"],
+    "avoid": ["face redraw", "identity drift", "feminized facial features", "double face", "watermark", "logo"]
+  },
+  "notes": [
+    "Use the face board as the first reference in every generation task.",
+    "Submit one outfit reference per generation task whenever possible.",
+    "The motion video is a close-up action reference and does not provide full-body calibration."
+  ]
+}

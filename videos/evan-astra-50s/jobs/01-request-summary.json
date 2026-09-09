@@ -1,0 +1,11 @@
+{
+  "model": "AP Seedance-2.5 标准版",
+  "seconds": 8,
+  "size": "1280x720",
+  "resolution": "720p",
+  "mode": "frames",
+  "generate_audio": true,
+  "watermark": false,
+  "first_frame": "assets/keyframes/01-study.png",
+  "prompt": "16:9真人实拍宣传片，8秒。参考首帧锁定同一Evan脸、短黑发、肤色、180cm74kg体型、深灰衬衫和室内布局。第三人称侧面观察摄影，人物不看镜头。0-1秒呼吸，1-6秒Evan看右侧屏幕说中文：Astra，看看今天女装什么款在爆，整理份报告。6-8秒平静女性助手画外音：好，开始分析。Evan点头。镜头轻缓推，真实口型和环境声，无字幕，无新增人物，不变脸，不改变背景。屏幕保持暗蓝稳定框架，文字由后期合成。"
+}
